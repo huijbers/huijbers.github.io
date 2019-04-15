@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About - Willem Huijbers"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,4 @@ redirect_from:
 
 ##### About
 
-I’m an Assistant Professor in Cognitive Science and Artificial Intelligence (AI) at Tilburg University and at the Jheronimus Academy for Data Science. My research is focused on the analysis of brain imaging data and measures of cognition. I’m especially interesting in neurological and psychiatric diseases, specifically AI-based methods for early detection of Alzheimer’s disease.
+Currenlty, I'm an Assistant Professor in [Cognitive Science and Artificial Intelligence](http://csai.nl) at Tilburg University and at the [Jheronimus Academy for Data Science](http://www.jads.nl) My research is focused on the relation cognition and brain imaging data. My work is applied in neurological and psychiatric diseases, specifically for early detection of Alzheimer’s disease. In the summer 2019, I'll start at as Senior Neurological Scientist at [Philips](https://www.philips.com/a-w/research/locations/eindhoven.html)
