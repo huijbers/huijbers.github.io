@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Cognitive Neuroscience, University of Amsterdam
+    * Date: December 2010
+    * Doctoral Thesis: [Episodic memory and the role of the brains default-mode network](https://dare.uva.nl/personal/pure/en/publications/episodic-memory-and-the-role-of-the-brains-defaultmode-network(32743c30-4c79-4faf-a1f2-cc4f77e6e29f).html)
+    * Advisors: dr. Sander Daselaar and prof. Cyriel Pennartz
+* M.S. in Artificial Intelligence, Utrecht University, 2006        
 * B.S. in Artificial Intelligence, Utrecht University, 2004
-* M.S. in Artificial Intelligence, Utrecht University, 2006
-* Ph.D in Cognitive Neuroscience, University of Amsterdam, 2018 
 
-Work experience
+Employment
 ======
 * Summer 2015: Research Assistant
   * Github University
