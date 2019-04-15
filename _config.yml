@@ -11,7 +11,7 @@ title                    : "dr. Willem Huijbers"
 title_separator          : "-"
 name                     : &name "Willem Huijbers"
 description              : &description "Clinical Scientist"
-url                      : https://huijbers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://huijbers.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huijbers/huijbers.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Willem Huijbers"
   avatar           : "profile.png"
-  bio              : "Clinical data scientist interested in neurodegenerative diseases"
+  bio              : "Clinical scientist interested in neurodegenerative diseases"
   location         : 
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Huijbers+W%22+%5Bauthor%5D"
