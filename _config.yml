@@ -11,13 +11,9 @@ title                    : "dr. Willem Huijbers"
 title_separator          : "-"
 name                     : &name "Willem Huijbers"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-description              : &description "Scientist at Philips"
-url                      : https://huijbers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
->>>>>>> 451faf0edf1af7e5a1a8f561801872a98982d148
+url                      : https://huijbers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huijbers/huijbers.github.io"
+repository               : "huijbers/huijbers.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -61,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &willlum
 facebook:
   username               :
   app_id                 :
@@ -89,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Huijbers+W%22+%5Bauthor%5D"
+  googlescholar    : "https://scholar.google.nl/citations?user=tta1gwMAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
