@@ -83,8 +83,8 @@ author:
   name             : "Willem Huijbers"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Netherlands"
-  employer         : "Philips"
+  location         : 
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Huijbers+W%22+%5Bauthor%5D"
   googlescholar    : "https://scholar.google.nl/citations?user=tta1gwMAAAAJ&hl=en&oi=ao"
   email            : "w.huijbers@uvt.nl"
