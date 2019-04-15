@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "dr. Willem Huijbers"
 title_separator          : "-"
 name                     : &name "Willem Huijbers"
-description              : &description "Clinical Scientist"
+description              : &description "Clinical Neuroscientist"
 url                      : "https://huijbers.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huijbers/huijbers.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Willem Huijbers"
   avatar           : "profile.png"
-  bio              : "Clinical scientist"
+  bio              : "Clinical Neuroscientist"
   location         : 
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Huijbers+W%22+%5Bauthor%5D"
