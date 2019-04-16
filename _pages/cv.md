@@ -23,15 +23,20 @@ Education
 
 Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2019: Assistant Professor at Tilburg University
+  * Department of Cognitive Science and Artificial Intelligence
+  * Jheronimus Academy for Data Science 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2016: Research Fellow at the Rhineland Study
+  * Deutsches Zentrum für Neurodegenerative Erkrankungen
+  * Advisor: [prof. Monique Breteler, MD](https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/breteler/curriculum-vitae/)
+  
+* 2010 -  2014: Post-doctoral Fellowship at the Harvard Aging Brain Study 
+  * Harvard Medical School 
+  * Martinos Center for Biomedical Imaging
+  * Advisor: [prof. Reisa Sperling, MD](https://www.nmr.mgh.harvard.edu/user/5647)
+  
+
   
 Skills
 ======
