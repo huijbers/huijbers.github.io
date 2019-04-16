@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+##### Education
 ======
 * __Ph.D in Cognitive Neuroscience, University of Amsterdam__
     * Date: December 2010
@@ -21,7 +21,7 @@ Education
     * Advisor: [dr. Bas Neggers](https://scholar.google.com/citations?user=narWEUwAAAAJ&hl=en)
 * __B.S. in Cognitive Artificial Intelligence, Utrecht University, 2004__
 
-Employment
+##### Employment
 ======
 * __2017 - 2019: Assistant Professor at Tilburg University__
   * Department of Cognitive Science and Artificial Intelligence
