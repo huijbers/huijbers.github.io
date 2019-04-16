@@ -27,11 +27,11 @@ Employment
   * Department of Cognitive Science and Artificial Intelligence
   * Jheronimus Academy for Data Science 
 
-* 2014 - 2016: Research Fellow at the Rhineland Study
+* 2014 - 2016: Research Fellow at Rhineland Study
   * Deutsches Zentrum für Neurodegenerative Erkrankungen
   * Advisor: [prof. Monique Breteler, MD](https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/breteler/curriculum-vitae/)
   
-* 2010 -  2014: Post-doctoral Fellowship at the Harvard Aging Brain Study 
+* 2011 -  2014: Post-doctoral Fellow at Harvard Aging Brain Study 
   * Harvard Medical School 
   * Martinos Center for Biomedical Imaging
   * Advisor: [prof. Reisa Sperling, MD](https://www.nmr.mgh.harvard.edu/user/5647)
