@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "fMRI-guided TMS on cortical eye fields: the frontal but not intraparietal eye fields regulate the coupling between visuospatial attention and eye movements"
 collection: publications
-permalink: /publication/01/10/2015-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 01/10/2015
-venue: 'Journal 1'
+permalink: /publication/2009-01-01-paper-title-number-3
+date: 2009-01-01
+venue: 'Journal of neurophysiology'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
