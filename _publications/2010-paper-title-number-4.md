@@ -1,5 +1,5 @@
 ---
-title: "Dissociating the "retrieval success" regions of the brain: effects of retrieval delay."
+title: "Dissociating the retrieval success regions of the brain: effects of retrieval delay."
 collection: publications
 permalink: /publication/01/01/2010-paper-title-number-4
 date: 01/01/2010
