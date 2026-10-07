@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Your Name</title>
+  <meta name="description" content="Personal profile page">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script>
+    try {
+      const saved = localStorage.getItem("theme");
+      if (saved) document.documentElement.dataset.theme = saved;
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a href="#about" class="identity">
+      <img class="avatar" src="https://github.com/huijbers.png" alt="Profile picture" width="96" height="96">
+      <span class="name">Your Name</span>
+    </a>
+    <p class="tagline">Your Role · Your Organisation</p>
+
+    <nav class="toc" aria-label="Sections">
+      <a href="#about">About</a>
+      <a href="#focus">Focus areas</a>
+      <a href="#projects">Projects</a>
+      <a href="#publications">Publications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="sidebar-foot">
+      <div class="social">
+        <a href="https://github.com/huijbers" aria-label="GitHub">
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/huijbers/" aria-label="LinkedIn">
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M0 1.15C0 .52.52 0 1.17 0h13.66C15.48 0 16 .52 16 1.15v13.7c0 .63-.52 1.15-1.17 1.15H1.17C.52 16 0 15.48 0 14.85V1.15zM4.94 13.4V6.17h-2.4v7.23h2.4zM3.74 5.18c.84 0 1.36-.56 1.36-1.25-.02-.71-.52-1.25-1.34-1.25-.82 0-1.36.54-1.36 1.25 0 .7.52 1.25 1.33 1.25h.01zM8.66 13.4V9.36c0-.22.02-.43.08-.59.17-.43.57-.88 1.23-.88.87 0 1.22.66 1.22 1.64v3.87h2.4V9.25c0-2.22-1.18-3.26-2.76-3.26-1.3 0-1.86.72-2.18 1.22h.02V6.17h-2.4c.03.68 0 7.23 0 7.23h2.4z"/></svg>
+        </a>
+        <a href="https://scholar.google.com/citations?user=tta1gwMAAAAJ&amp;hl=en" aria-label="Google Scholar">
+          <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.84 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.16 4.44L24 9.5z"/></svg>
+        </a>
+        <a href="https://orcid.org/0000-0003-3958-4069" aria-label="ORCID">
+          <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12 0a12 12 0 1 1 0 24 12 12 0 0 1 0-24zM7.3 5.6a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4zM6.4 9.2v9h1.8v-9zm3.8 0v9h3.3c3 0 4.9-2 4.9-4.5s-1.9-4.5-4.9-4.5zm1.8 1.6h1.4c1.9 0 3.1 1.2 3.1 2.9s-1.2 2.9-3.1 2.9H12z"/></svg>
+        </a>
+      </div>
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 1v3M12 20v3M1 12h3M20 12h3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+      </button>
+    </div>
+  </aside>
+
+  <main class="content">
+    <section id="about">
+      <h1>Hi, I'm Your Name.</h1>
+      <p class="lead">
+        One or two sentences on what you do — the problem space you work in
+        and the kind of work you enjoy most.
+      </p>
+      <p>
+        A slightly longer paragraph with background: where you work, what your
+        team builds, and what brought you there. Keep it personal but
+        professional; this is the first thing visitors read.
+      </p>
+    </section>
+
+    <section id="focus">
+      <h2>Focus areas</h2>
+      <div class="cards">
+        <article class="card">
+          <h3>Area one</h3>
+          <p>A short description of a topic you work on or care about.</p>
+        </article>
+        <article class="card">
+          <h3>Area two</h3>
+          <p>A short description of a topic you work on or care about.</p>
+        </article>
+        <article class="card">
+          <h3>Area three</h3>
+          <p>A short description of a topic you work on or care about.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul class="entries">
+        <li>
+          <span class="meta">2026</span>
+          <div>
+            <a href="#">Project name</a>
+            <p>What it is, your role, and why it matters.</p>
+          </div>
+        </li>
+        <li>
+          <span class="meta">2025</span>
+          <div>
+            <a href="#">Another project</a>
+            <p>What it is, your role, and why it matters.</p>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+      <ul class="entries">
+        <li>
+          <span class="meta">2026</span>
+          <div>
+            <a href="#">Title of the paper</a>
+            <p>Authors · <em>Venue or journal</em></p>
+          </div>
+        </li>
+        <li>
+          <span class="meta">2024</span>
+          <div>
+            <a href="#">Title of another paper</a>
+            <p>Authors · <em>Venue or journal</em></p>
+          </div>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        The best way to reach me is via
+        <a href="https://www.linkedin.com/in/huijbers/">LinkedIn</a> or
+        <a href="https://github.com/huijbers">GitHub</a>.
+      </p>
+    </section>
+
+    <footer>Last updated 2026-10-07</footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
